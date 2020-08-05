@@ -1,2 +1,2 @@
-##Template-1
+Template-1
 https://anacarolinamoreira.github.io/Template-1/
